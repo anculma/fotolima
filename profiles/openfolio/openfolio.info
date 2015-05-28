@@ -76,9 +76,9 @@ dependencies[] = openfolio_misc
 dependencies[] = openfolio_features
 dependencies[] = openfolio_multi_upload
 
-; Information added by drupal.org packaging script on 2013-08-31
-version = "7.x-1.3"
+; Information added by drupal.org packaging script on 2013-10-01
+version = "7.x-1.0+0-dev"
 core = "7.x"
 project = "openfolio"
-datestamp = "1377979006"
+datestamp = "1380620732"
 

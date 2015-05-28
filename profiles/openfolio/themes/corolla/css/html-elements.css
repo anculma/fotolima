@@ -128,3 +128,6 @@ dt {
 dd {
   margin: 0 0 1.5em 40px;
 }
+#logo img{
+  max-width: 40%;
+}

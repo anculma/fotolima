@@ -45,7 +45,7 @@ projects[draggableviews][subdir] = "contrib"
 projects[draggableviews][version] = "2.0"
 
 projects[entity][subdir] = "contrib"
-projects[entity][version] = "1.2"
+projects[entity][version] = "1.1"
 
 projects[entityreference][subdir] = "contrib"
 projects[entityreference][version] = "1.0"
@@ -66,7 +66,7 @@ projects[link][subdir] = "contrib"
 projects[link][version] = "1.1"
 
 projects[module_filter][subdir] = "contrib"
-projects[module_filter][version] = "1.8"
+projects[module_filter][version] = "1.7"
 
 projects[openfolio_features][subdir] = "contrib"
 projects[openfolio_features][download][type] = "git"
@@ -80,7 +80,7 @@ projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 
 projects[plupload][subdir] = "contrib"
-projects[plupload][version] = "1.3"
+projects[plupload][version] = "1.2"
 
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.3"

@@ -20,8 +20,8 @@ features[variable][] = bulk_media_upload_entity_type
 features[variable][] = bulk_media_upload_mediafield
 
 
-; Information added by drush on 2013-08-31
+; Information added by drush on 2013-10-01
 version = ""
 project = "openfolio_features"
-datestamp = "1377979011"
+datestamp = "1380620741"
 
